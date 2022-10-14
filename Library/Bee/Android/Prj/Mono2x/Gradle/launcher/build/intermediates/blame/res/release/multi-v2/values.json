@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Unity Games\\My project\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\Unity Games\\Test\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "D:\\Unity Games\\My project\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
+                    "source": "D:\\Unity Games\\Test\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
@@ -14,7 +14,24 @@
                     }
                 },
                 {
-                    "source": "D:\\Unity Games\\My project\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values\\styles.xml",
+                    "source": "D:\\Unity Games\\Test\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "55,96",
+                        "endColumns": "39,65",
+                        "endOffsets": "92,159"
+                    },
+                    "to": {
+                        "startLines": "8,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "356,398",
+                        "endColumns": "41,67",
+                        "endOffsets": "393,461"
+                    }
+                },
+                {
+                    "source": "D:\\Unity Games\\Test\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "5,2,7",
                         "startColumns": "0,0,0",
@@ -26,27 +43,10 @@
                     "to": {
                         "startLines": "10,12,15",
                         "startColumns": "4,4,4",
-                        "startOffsets": "472,572,710",
+                        "startOffsets": "466,566,704",
                         "endLines": "11,14,18",
                         "endColumns": "8,8,8",
-                        "endOffsets": "567,705,932"
-                    }
-                },
-                {
-                    "source": "D:\\Unity Games\\My project\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "2,2",
-                        "startOffsets": "55,102",
-                        "endColumns": "45,65",
-                        "endOffsets": "98,165"
-                    },
-                    "to": {
-                        "startLines": "8,9",
-                        "startColumns": "4,4",
-                        "startOffsets": "356,404",
-                        "endColumns": "47,67",
-                        "endOffsets": "399,467"
+                        "endOffsets": "561,699,926"
                     }
                 }
             ]
